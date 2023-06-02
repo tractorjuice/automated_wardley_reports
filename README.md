@@ -1,2 +1,2 @@
-# automated_wardley_reports
-Repository for all automated reports
+# Automated Wardley Reports
+Repository for all automated reports from the Wardley Stratey Robot ....
