@@ -1,0 +1,9 @@
+Title: Analysis of the Wardley Map for Data (organizations), MAY 2023
+Outline: Chapter 1: Introduction and Background
+- Provide an overview of the Wardley Map for Data (organizations), MAY 2023
+- Explain the evolution stages of the components in the map
+- Describe the key components and their relationships
+Paragraphs:
+The Wardley Map for Data (organizations), MAY 2023, provides a visual representation of the evolution and interdependencies of various components related to data management and security. The map follows the evolution stages of genesis, custom/emerging, product/converging, and commodity/accepted. It showcases the key components such as Government Entity, Corporate/NGO Actor, THREAT ACTOR, VULNERABILITY, Sharing, DATA POLICY, Retention, Data Security, Integrity, Availability, History, Data Location, Analytics, OPEN DATA STANDARDS, Data sharing protocols, REGULATIONS, ChatGPT interface ban, central govt crypto, GDPR, SOC, HIPPA, Personnel, Enforcement, Incident Response, FORENSICS, Threat detection, Monitoring, CRYPTOGRAPHY, zero-knowledge proofs, end-to-end cryptography, symmetric/asymmetric cryptography, Quantum Resistant Cryptography, Transmission, DATA STORE, Digital Wallet, Distributed Ledger, CMDB, SIEM, DATA SOURCE, completeness, validated, Open data, automated, and manual entry.
+
+The map reveals several important relationships and connections between the components. For example, the Corporate/NGO Actor is connected to DATA POLICY, Informed, and Integrity, indicating its involvement in shaping data policies, staying informed about data-related matters, and ensuring data integrity. Similarly, THREAT ACTOR is connected to VULNERABILITY, Attribution, and Availability, highlighting its role in exploiting vulnerabilities, attributing attacks, and impacting data availability. VULNERABILITY is connected to DATA STORE and DATA SOURCE, indicating its relevance in the security of data storage and data sources.
