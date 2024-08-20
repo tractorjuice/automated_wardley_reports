@@ -3769,18 +3769,14 @@ In conclusion, the future of gaming with generative AI is not predetermined but 
 
 > [View full Wardley Map report](markdown_wardley_map_reports/wardley_map_report_65_The_Role_of_Gamers,_Developers,_and_Society.md)
 
-
-
-
-
 # Appendix
 
 ## Book Generation Details
 
 - Initial Topic: Game Changer: How Generative AI is Revolutionising the Future of Gaming
 - Refined Topic: Game Changer: How Generative AI is Revolutionising the Future of Gaming
-- Total Output Tokens: 0
-- Total LLM Cost: $0.00
+- Total Output Tokens: 314,664
+- Total LLM Cost: $4.72
 
 # Appendix: Further Reading on Wardley Mapping
 
