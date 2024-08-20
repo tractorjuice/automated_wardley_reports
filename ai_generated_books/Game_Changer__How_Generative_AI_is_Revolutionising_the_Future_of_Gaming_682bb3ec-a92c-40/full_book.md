@@ -3782,8 +3782,6 @@ In conclusion, the future of gaming with generative AI is not predetermined but 
 - Total Output Tokens: 0
 - Total LLM Cost: $0.00
 
-## Further Reading on Wardley Mapping
-
 # Appendix: Further Reading on Wardley Mapping
 
 The following books, primarily authored by Mark Craddock, offer comprehensive insights into various aspects of Wardley Mapping:
