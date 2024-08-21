@@ -1029,44 +1029,40 @@ A wise mapmaker once said, 'A good map doesn't just show where you are, it revea
 
 ### How to apply mapping to any story
 
-Content for How to apply mapping to any story not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b/book/Conclusion__Your_Own_Fairy_Tale_Map/Recap_of_Mapping_Principles/topic_38_How_to_apply_mapping_to_any_story.md
+Content for How to apply mapping to any story not found.
 
 ## Creating Your Own Fairy Tale Map
 
 ### Choosing a favourite story
 
-Content for Choosing a favourite story not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b/book/Conclusion__Your_Own_Fairy_Tale_Map/Creating_Your_Own_Fairy_Tale_Map/topic_39_Choosing_a_favourite_story.md
+Content for Choosing a favourite story not found.
 
 ### Step-by-step guide to mapping
 
-Content for Step-by-step guide to mapping not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b/book/Conclusion__Your_Own_Fairy_Tale_Map/Creating_Your_Own_Fairy_Tale_Map/topic_40_Step-by-step_guide_to_mapping.md
+Content for Step-by-step guide to mapping not found.
 
 ### Sharing and discussing your map
 
-Content for Sharing and discussing your map not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b/book/Conclusion__Your_Own_Fairy_Tale_Map/Creating_Your_Own_Fairy_Tale_Map/topic_41_Sharing_and_discussing_your_map.md
+Content for Sharing and discussing your map not found.
 
 ## The Future of Your Mapping Adventure
 
 ### Using mapping in everyday life
 
-Content for Using mapping in everyday life not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b/book/Conclusion__Your_Own_Fairy_Tale_Map/The_Future_of_Your_Mapping_Adventure/topic_42_Using_mapping_in_everyday_life.md
+Content for Using mapping in everyday life not found.
 
 ### Continuing to learn and grow
 
-Content for Continuing to learn and grow not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Once_Upon_a_Map__A_Child_s_Guide_to_Wardley_Mapping_Through_Fairy_Tales_d1b4d1dd-889d-4b/book/Conclusion__Your_Own_Fairy_Tale_Map/The_Future_of_Your_Mapping_Adventure/topic_43_Continuing_to_learn_and_grow.md
+Content for Continuing to learn and grow not found.
 
 
 
-# Appendix
-
-## Book Generation Details
+# Appendix: Book Generation Details
 
 - Initial Topic: Once Upon a Map: A Child's Guide to Wardley Mapping Through Fairy Tales
 - Refined Topic: Once Upon a Map: A Child's Guide to Wardley Mapping Through Fairy Tales
-- Total Output Tokens: 78246
+- Total Output Tokens: 78,246
 - Total LLM Cost: $1.17
-
-## Further Reading on Wardley Mapping
 
 # Appendix: Further Reading on Wardley Mapping
 
@@ -1227,7 +1223,7 @@ The following books, primarily authored by Mark Craddock, offer comprehensive in
    - Workshop facilitators and educators
    - Anyone wanting to practice and refine their mapping skills
 
-## Specialized Applications
+## Specialised Applications
 
 7. **UN Global Platform Handbook on Information Technology Strategy: Wardley Mapping The Sustainable Development Goals (SDGs)**
    - Author: Mark Craddock
