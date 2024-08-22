@@ -1,3 +1,5 @@
+!(https://images.wardleymaps.ai/Book Cover.jpg)
+
 # Mastering Wardley Mapping for Project Success: A Strategic Guide for Project Managers
 
 ### :warning: WARNING: This content was generated using Generative AI. While efforts have been made to ensure accuracy and coherence, readers should approach the material with critical thinking and verify important information from authoritative sources.
