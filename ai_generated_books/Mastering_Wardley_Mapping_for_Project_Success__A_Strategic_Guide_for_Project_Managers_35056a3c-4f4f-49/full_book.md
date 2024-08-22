@@ -1,4 +1,4 @@
-!(https://images.wardleymaps.ai/Book Cover.jpg)
+!("https://images.wardleymaps.ai/Book Cover.jpg")
 
 # Mastering Wardley Mapping for Project Success: A Strategic Guide for Project Managers
 
