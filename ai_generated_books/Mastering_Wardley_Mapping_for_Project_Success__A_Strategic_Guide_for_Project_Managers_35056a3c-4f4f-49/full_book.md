@@ -1238,29 +1238,29 @@ By leveraging Wardley Mapping in multi-project and programme management, organis
 
 ### Combining Wardley Maps with SWOT analysis
 
-Content for Combining Wardley Maps with SWOT analysis not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Chapter_4__Advanced_Wardley_Mapping_Techniques_for_Project_Managers/Integrating_Wardley_Mapping_with_Other_Strategic_Tools/topic_36_Combining_Wardley_Maps_with_SWOT_analysis.md
+Content for Combining Wardley Maps with SWOT analysis not found.
 
 ### Using Wardley Maps alongside Balanced Scorecards
 
-Content for Using Wardley Maps alongside Balanced Scorecards not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Chapter_4__Advanced_Wardley_Mapping_Techniques_for_Project_Managers/Integrating_Wardley_Mapping_with_Other_Strategic_Tools/topic_37_Using_Wardley_Maps_alongside_Balanced_Scorecards.md
+Content for Using Wardley Maps alongside Balanced Scorecards not found.
 
 ### Enhancing Risk Management with Wardley Mapping
 
-Content for Enhancing Risk Management with Wardley Mapping not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Chapter_4__Advanced_Wardley_Mapping_Techniques_for_Project_Managers/Integrating_Wardley_Mapping_with_Other_Strategic_Tools/topic_38_Enhancing_Risk_Management_with_Wardley_Mapping.md
+Content for Enhancing Risk Management with Wardley Mapping not found.
 
 ## Wardley Mapping for Specific Project Types
 
 ### IT and software development projects
 
-Content for IT and software development projects not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Chapter_4__Advanced_Wardley_Mapping_Techniques_for_Project_Managers/Wardley_Mapping_for_Specific_Project_Types/topic_39_IT_and_software_development_projects.md
+Content for IT and software development projects not found.
 
 ### Product development and innovation projects
 
-Content for Product development and innovation projects not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Chapter_4__Advanced_Wardley_Mapping_Techniques_for_Project_Managers/Wardley_Mapping_for_Specific_Project_Types/topic_40_Product_development_and_innovation_projects.md
+Content for Product development and innovation projects not found.
 
 ### Organisational change and transformation projects
 
-Content for Organisational change and transformation projects not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Chapter_4__Advanced_Wardley_Mapping_Techniques_for_Project_Managers/Wardley_Mapping_for_Specific_Project_Types/topic_41_Organisational_change_and_transformation_projects.md
+Content for Organisational change and transformation projects not found.
 
 # Conclusion: Becoming a Wardley Mapping Master
 
@@ -1268,29 +1268,29 @@ Content for Organisational change and transformation projects not found. File pa
 
 ### Continuous learning and practice
 
-Content for Continuous learning and practice not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Conclusion__Becoming_a_Wardley_Mapping_Master/Developing_Your_Wardley_Mapping_Skills/topic_42_Continuous_learning_and_practice.md
+Content for Continuous learning and practice not found.
 
 ### Building a community of practice within your organisation
 
-Content for Building a community of practice within your organisation not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Conclusion__Becoming_a_Wardley_Mapping_Master/Developing_Your_Wardley_Mapping_Skills/topic_43_Building_a_community_of_practice_within_your_organ.md
+Content for Building a community of practice within your organisation not found.
 
 ### Resources for further study and improvement
 
-Content for Resources for further study and improvement not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Conclusion__Becoming_a_Wardley_Mapping_Master/Developing_Your_Wardley_Mapping_Skills/topic_44_Resources_for_further_study_and_improvement.md
+Content for Resources for further study and improvement not found.
 
 ## The Future of Project Management with Wardley Mapping
 
 ### Emerging trends and developments
 
-Content for Emerging trends and developments not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Conclusion__Becoming_a_Wardley_Mapping_Master/The_Future_of_Project_Management_with_Wardley_Mapping/topic_45_Emerging_trends_and_developments.md
+Content for Emerging trends and developments not found.
 
 ### Potential impacts on the project management profession
 
-Content for Potential impacts on the project management profession not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Conclusion__Becoming_a_Wardley_Mapping_Master/The_Future_of_Project_Management_with_Wardley_Mapping/topic_46_Potential_impacts_on_the_project_management_profes.md
+Content for Potential impacts on the project management profession not found.
 
 ### Preparing for the evolving landscape of strategic project management
 
-Content for Preparing for the evolving landscape of strategic project management not found. File path: /content/drive/Shareddrives/AI/AI_Generated_Books/DRAFTS/Mastering_Wardley_Mapping_for_Project_Success__A_Strategic_Guide_for_Project_Managers_35056a3c-4f4f-49/book/Conclusion__Becoming_a_Wardley_Mapping_Master/The_Future_of_Project_Management_with_Wardley_Mapping/topic_47_Preparing_for_the_evolving_landscape_of_strategic_.md
+Content for Preparing for the evolving landscape of strategic project management not found.
 
 
 
