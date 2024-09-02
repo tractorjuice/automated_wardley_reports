@@ -1,2 +1,1 @@
-These are 100% AI Generated Books.
-Please check for errors.
+All these books have been moved to: https://github.com/tractorjuice/GenAI-Books
